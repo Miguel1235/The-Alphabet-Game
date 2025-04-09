@@ -1,0 +1,174 @@
+[
+  {
+    "id": 0,
+    "letter": "A",
+    "question": "The thing that is used in maths",
+    "answer": "angle",
+    "status": "NOT_STARTED"
+  },
+  {
+      "id": 1,
+    "letter": "B",
+    "question": "A buzzing insect",
+    "answer": "bee",
+    "status": "NOT_STARTED"
+  },
+  {
+      "id": 2,
+
+    "letter": "C",
+    "question": "Used to describe something cold",
+    "answer": "chilly",
+    "status": "NOT_STARTED"
+  },
+  {
+      "id": 3,
+
+    "letter": "D",
+    "question": "A man's title",
+    "answer": "doctor",
+    "status": "NOT_STARTED"
+  },
+  {
+      "id": 4,
+
+    "letter": "E",
+    "question": "A large mammal with big ears",
+    "answer": "elephant",
+    "status": "NOT_STARTED"
+  },
+  {
+      "id": 5,
+
+    "letter": "F",
+    "question": "Opposite of success",
+    "answer": "failure",
+    "status": "CORRECT"
+  },
+  {
+      "id": 6,
+
+    "letter": "G",
+    "question": "Used to measure weight",
+    "answer": "gram",
+    "status": "CORRECT"
+  },
+  {
+      "id": 7,
+
+    "letter": "H",
+    "question": "Frozen water",
+    "answer": "hail",
+    "status": "NOT_STARTED"
+  },
+  {
+      "id": 8,
+
+    "letter": "I",
+    "question": "Opposite of out",
+    "answer": "in",
+    "status": "NOT_STARTED"
+  },
+  {    "id": 9,
+    "letter": "J",
+    "question": "Used to describe a court worker",
+    "answer": "judge",
+    "status": "NOT_STARTED"
+  },
+  {"id": 10,
+    "letter": "K",
+    "question": "A baby cat",
+    "answer": "kitten",
+    "status": "NOT_STARTED"
+  },
+  {"id": 11,
+    "letter": "L",
+    "question": "What you do when you find something funny",
+    "answer": "laugh",
+    "status": "NOT_STARTED"
+  },
+  {"id": 12,
+    "letter": "M",
+    "question": "Opposite of female",
+    "answer": "male",
+    "status": "FAILED"
+  },
+  {"id": 13,
+    "letter": "N",
+    "question": "A compass direction",
+    "answer": "north",
+    "status": "NOT_STARTED"
+  },
+  {"id": 14,
+    "letter": "O",
+    "question": "Round and often worn on fingers",
+    "answer": "opal",
+    "status": "CORRECT"
+  },
+  {"id": 15,
+    "letter": "P",
+    "question": "A place where you store things",
+    "answer": "pantry",
+    "status": "FAILED"
+  },
+  {"id": 16,
+    "letter": "Q",
+    "question": "A line of people",
+    "answer": "queue",
+    "status": "NOT_STARTED"
+  },
+  {"id": 17,
+    "letter": "R",
+    "question": "A color and also a fruit",
+    "answer": "raspberry",
+    "status": "NOT_STARTED"
+  },
+  {"id": 18,
+    "letter": "S",
+    "question": "Used to describe something sharp",
+    "answer": "spike",
+    "status": "CORRECT"
+  },
+  {"id": 19,
+    "letter": "T",
+    "question": "Hot beverage",
+    "answer": "tea",
+    "status": "NOT_STARTED"
+  },
+  {"id": 20,
+    "letter": "U",
+    "question": "Opposite of down",
+    "answer": "up",
+    "status": "NOT_STARTED"
+  },
+  {"id": 21,
+    "letter": "V",
+    "question": "A type of car",
+    "answer": "van",
+    "status": "NOT_STARTED"
+  },
+  {"id": 22,
+    "letter": "W",
+    "question": "Falling water from the sky",
+    "answer": "water",
+    "status": "FAILED"
+  },
+  {"id": 23,
+    "letter": "X",
+    "question": "Used to describe something unknown",
+    "answer": "x-factor",
+    "status": "NOT_STARTED"
+  },
+  {"id": 24,
+    "letter": "Y",
+    "question": "Color between green and orange",
+    "answer": "yellow",
+    "status": "NOT_STARTED"
+  },
+  {"id": 25,
+    "letter": "Z",
+    "question": "A black and white striped animal",
+    "answer": "zebra",
+    "status": "NOT_STARTED"
+  }
+]
