@@ -2,170 +2,180 @@
   {
     "id": 0,
     "letter": "A",
-    "question": "The thing that is used in maths",
-    "answer": "angle",
+    "question": "A common fruit",
+    "answer": "apple",
     "status": "NOT_STARTED"
   },
   {
-      "id": 1,
+    "id": 1,
     "letter": "B",
     "question": "A buzzing insect",
     "answer": "bee",
     "status": "NOT_STARTED"
   },
   {
-      "id": 2,
-
+    "id": 2,
     "letter": "C",
     "question": "Used to describe something cold",
     "answer": "chilly",
     "status": "NOT_STARTED"
   },
   {
-      "id": 3,
-
+    "id": 3,
     "letter": "D",
     "question": "A man's title",
     "answer": "doctor",
     "status": "NOT_STARTED"
   },
   {
-      "id": 4,
-
+    "id": 4,
     "letter": "E",
     "question": "A large mammal with big ears",
     "answer": "elephant",
     "status": "NOT_STARTED"
   },
   {
-      "id": 5,
-
+    "id": 5,
     "letter": "F",
     "question": "Opposite of success",
     "answer": "failure",
-    "status": "CORRECT"
+    "status": "NOT_STARTED"
   },
   {
-      "id": 6,
-
+    "id": 6,
     "letter": "G",
     "question": "Used to measure weight",
     "answer": "gram",
-    "status": "CORRECT"
+    "status": "NOT_STARTED"
   },
   {
-      "id": 7,
-
+    "id": 7,
     "letter": "H",
     "question": "Frozen water",
     "answer": "hail",
     "status": "NOT_STARTED"
   },
   {
-      "id": 8,
-
+    "id": 8,
     "letter": "I",
     "question": "Opposite of out",
     "answer": "in",
     "status": "NOT_STARTED"
   },
-  {    "id": 9,
+  {
+    "id": 9,
     "letter": "J",
     "question": "Used to describe a court worker",
     "answer": "judge",
     "status": "NOT_STARTED"
   },
-  {"id": 10,
+  {
+    "id": 10,
     "letter": "K",
     "question": "A baby cat",
     "answer": "kitten",
     "status": "NOT_STARTED"
   },
-  {"id": 11,
+  {
+    "id": 11,
     "letter": "L",
     "question": "What you do when you find something funny",
     "answer": "laugh",
     "status": "NOT_STARTED"
   },
-  {"id": 12,
+  {
+    "id": 12,
     "letter": "M",
     "question": "Opposite of female",
     "answer": "male",
-    "status": "FAILED"
+    "status": "NOT_STARTED"
   },
-  {"id": 13,
+  {
+    "id": 13,
     "letter": "N",
     "question": "A compass direction",
     "answer": "north",
     "status": "NOT_STARTED"
   },
-  {"id": 14,
+  {
+    "id": 14,
     "letter": "O",
     "question": "Round and often worn on fingers",
     "answer": "opal",
-    "status": "CORRECT"
+    "status": "NOT_STARTED"
   },
-  {"id": 15,
+  {
+    "id": 15,
     "letter": "P",
     "question": "A place where you store things",
     "answer": "pantry",
-    "status": "FAILED"
+    "status": "NOT_STARTED"
   },
-  {"id": 16,
+  {
+    "id": 16,
     "letter": "Q",
     "question": "A line of people",
     "answer": "queue",
     "status": "NOT_STARTED"
   },
-  {"id": 17,
+  {
+    "id": 17,
     "letter": "R",
     "question": "A color and also a fruit",
     "answer": "raspberry",
     "status": "NOT_STARTED"
   },
-  {"id": 18,
+  {
+    "id": 18,
     "letter": "S",
     "question": "Used to describe something sharp",
     "answer": "spike",
-    "status": "CORRECT"
+    "status": "NOT_STARTED"
   },
-  {"id": 19,
+  {
+    "id": 19,
     "letter": "T",
     "question": "Hot beverage",
     "answer": "tea",
     "status": "NOT_STARTED"
   },
-  {"id": 20,
+  {
+    "id": 20,
     "letter": "U",
     "question": "Opposite of down",
     "answer": "up",
     "status": "NOT_STARTED"
   },
-  {"id": 21,
+  {
+    "id": 21,
     "letter": "V",
     "question": "A type of car",
     "answer": "van",
     "status": "NOT_STARTED"
   },
-  {"id": 22,
+  {
+    "id": 22,
     "letter": "W",
     "question": "Falling water from the sky",
     "answer": "water",
-    "status": "FAILED"
+    "status": "NOT_STARTED"
   },
-  {"id": 23,
+  {
+    "id": 23,
     "letter": "X",
     "question": "Used to describe something unknown",
     "answer": "x-factor",
     "status": "NOT_STARTED"
   },
-  {"id": 24,
+  {
+    "id": 24,
     "letter": "Y",
     "question": "Color between green and orange",
     "answer": "yellow",
     "status": "NOT_STARTED"
   },
-  {"id": 25,
+  {
+    "id": 25,
     "letter": "Z",
     "question": "A black and white striped animal",
     "answer": "zebra",
