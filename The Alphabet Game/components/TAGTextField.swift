@@ -9,6 +9,7 @@ import SwiftUI
 
 struct TAGTextField: View {
     var placeholder: String
+    
     @Binding var text: String
     var body: some View {
         TextField(placeholder, text: $text)
@@ -24,18 +25,13 @@ struct TAGTextField: View {
             .padding([.leading, .trailing])
     }
     
+
+    
     var border: some View {
       RoundedRectangle(cornerRadius: 100)
         .strokeBorder(
-          LinearGradient(
-            gradient: .init(
-              colors: [
-                .gray,.brown
-              ]
-            ),
-            startPoint: .topLeading,
-            endPoint: .bottomTrailing
-          ),
+            
+            LinearGradient(colors: [.green, .white],startPoint: .topLeading, endPoint: .bottomTrailing),
           lineWidth: 2
         )
     }
