@@ -28,7 +28,6 @@ final class AlphabetGameViewModel {
             .components(separatedBy: .punctuationCharacters).joined()
     }
     
-    
     func restartGame() {
         isGameOver = false
         currentAnswer = ""

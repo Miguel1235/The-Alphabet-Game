@@ -25,13 +25,11 @@ struct TAGTextField: View {
             .padding([.leading, .trailing])
     }
     
-
-    
     var border: some View {
       RoundedRectangle(cornerRadius: 100)
         .strokeBorder(
-            
-            LinearGradient(colors: [.green, .white],startPoint: .topLeading, endPoint: .bottomTrailing),
+            Color.primary,
+//            LinearGradient(colors: [.green, .indigo],startPoint: .topLeading, endPoint: .bottomTrailing),
           lineWidth: 2
         )
     }
